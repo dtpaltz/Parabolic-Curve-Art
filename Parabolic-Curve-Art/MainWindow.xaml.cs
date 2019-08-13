@@ -24,7 +24,7 @@ namespace Parabolic_Curve_Art
 			List<int> stepPoints = new List<int>();
 
 			double lineThickness = 0.6;
-			int lineCount = 50;
+			int lineCount = 46;
 			int stepSize = 11;
 
 			for (int i = 0; i <= lineCount; i++)
